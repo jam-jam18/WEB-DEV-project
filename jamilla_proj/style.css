@@ -1,0 +1,73 @@
+.header{
+   background-color: rgb(0, 0, 0);
+   padding-left: 33%;
+   padding-bottom: 3%;
+   padding-top: 2px;
+    color: rgb(209, 192, 226);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+body{
+    background-image: url(deep\ violet.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.koz img{
+    width: 50%;
+    max-width: 500px;
+    height: auto;
+}
+
+
+.oki{
+    color:aliceblue;
+    margin-left: 40%;
+    font-family: cursive;
+    margin-top: 20%;
+    font-size: 15px;
+}
+
+.kkk{
+    margin-top: 30%;
+    margin-left: 45%;
+    width: 50%;
+}
+
+.lol{
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 15px;
+    margin-left: 5%;
+}
+
+.third img {
+    width: 70%;
+    max-width: 600px;
+    margin-top: 6%;
+    margin-right: 10%;
+}
+
+.sad{
+    margin-top: 30% ;
+    color: aliceblue;
+    font-size: 15px;
+    font-family: cursive;
+    margin-left: 30%;
+    padding-top: 10%;
+    padding-left: 15%;
+
+}
+
+.last{
+    margin-top: 20%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    padding-top: 5px;
+    padding-bottom: 3px;
+    color: white;
+}
+    
